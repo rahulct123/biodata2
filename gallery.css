@@ -1,0 +1,30 @@
+.row{
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+}
+.col{ 
+    height: 100px;
+    width: 100px;
+    border: double black 2px;
+}
+.col-1{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+}
+.col-2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.col-3{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+.col-4{height: 100px;
+    width: 100px;
+    background-color: red;
+}
